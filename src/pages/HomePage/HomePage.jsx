@@ -1,5 +1,4 @@
-import PropTypes from "prop-types";
-import styles from "./Homepage.module.css";
+import styles from "./HomePage.module.css";
 import { Link } from "react-router-dom";
 import PageNav from "../../components/PageNav/PageNav";
 
